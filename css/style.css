@@ -1,0 +1,39 @@
+/* .main {
+    width: 100%;
+    min-height: 700px;
+    background: red;
+}
+
+.rControl {
+    width: 100%;
+    min-height: 700px;
+    background: #ff4;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.CP {
+    text-align: center;
+    justify-content: center;
+    font-size: 25px;
+} */
+
+.main {
+    width: 100%;
+    min-height: 700px;
+    background: red;
+}
+
+.rControl {
+    width: 100%;
+    min-height: 700px;
+    background: #ff4;
+    padding: 15px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.CP {
+    color: blue;
+    font-size: 30px;
+}
